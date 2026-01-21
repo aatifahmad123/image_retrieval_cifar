@@ -260,7 +260,6 @@ export default function Home() {
           assumptions about the data distribution given that the images have a
           property of having pixels not entirely independent.
         </p>
-        <Test></Test>
         <h2 className="text-2xl font-bold py-2" id="Contribution">
           Contribution of Members
         </h2>
