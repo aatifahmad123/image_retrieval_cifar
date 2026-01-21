@@ -111,7 +111,7 @@ export default function Team() {
                 </a>
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/aatif-ahmad-2b8862282/" target="_blank">
+                <a href="https://www.linkedin.com/in/aatifahmad123/" target="_blank">
                   <img
                     src="https://cdn-icons-png.freepik.com/256/1384/1384014.png?ga=GA1.1.317981237.1711607053&semt=ais_hybrid"
                     alt="L"
@@ -120,7 +120,7 @@ export default function Team() {
                 </a>
               </li>
               <li>
-                <a href="https://x.com/ByteKnight18?t=i1CfrQI3RYK01tx5_3sZXw&s=08" target="_blank">
+                <a href="https://x.com/aatif_ahmad_123" target="_blank">
                   <img
                     src="https://cdn-icons-png.freepik.com/256/5969/5969020.png?ga=GA1.1.317981237.1711607053&semt=ais_hybrid"
                     alt="G"
